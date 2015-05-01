@@ -1,0 +1,16 @@
+{
+	"name": "dvecmath",
+	"description": "A math utility for cg work.",
+	"copyright": "Copyright © 2015, ousttrue",
+	"authors": ["ousttrue"],
+	"dependencies": {
+	},
+    "configurations":[
+        {
+            "name": "library",
+            "targetType": "library",
+        },
+    ],
+    "targetPath": "lib",
+}
+
